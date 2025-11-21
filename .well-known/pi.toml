@@ -5,8 +5,3 @@ name="LUMENSIAtoken"
 desc="Token utilitas untuk ekosistem LUMENSIA"
 image="https://token-lumensia.netlify.app/assets/logo.png"
 
-[DOCUMENTATION]
-ORG_NAME="LUME Token"
-ORG_URL="https://token-lumensia.netlify.app"
-ORG_LOGO="https://token-lumensia.netlify.app/assets/logo.png"
-ORG_DESCRIPTION="LUME is a utility token created for testing and development on the Pi Testnet ecosystem."
